@@ -1,6 +1,6 @@
 # Basic Algorithms
 
-1. The time in words 
+1. The time in words https://ideone.com/iS9eWE
 
 
 ### Hackerank | LeetCode | Codeforces | CSES
