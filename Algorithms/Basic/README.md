@@ -1,3 +1,11 @@
+# Basic Algorithms
+
+
+### Hackerank
+
+1. The Time in Words https://www.hackerrank.com/challenges/the-time-in-words/problem
+
+2. 
 In Scala, you can define as many **objects** as you like, but only **one** object should contain the `main` method if it's meant to be the entry point of the program.
 
 ### Key Points:
